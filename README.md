@@ -11,6 +11,8 @@ A fully local Next.js 14 application that creates a QR-based multimedia storage 
 - 💾 **JSON-Based Storage**: Simple file-based database for quick demos
 - 🎨 **Beautiful UI**: Clean interface built with Tailwind CSS
 
+Live Demo-https://690dcc58945a3cd253e7377c--qr-code-genaratorr.netlify.app/
+
 ## 🚀 Quick Start
 
 ### Prerequisites
