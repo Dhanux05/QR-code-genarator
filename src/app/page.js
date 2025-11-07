@@ -5,7 +5,7 @@ export default function Home() {
         {/* Hero Section */}
         <div className="text-center mb-16">
           <h1 className="text-6xl font-bold text-gray-900 mb-4">
-            📱 Scanart
+            📱 QR-Code Genarator
           </h1>
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
             A fully local multimedia storage system powered by QR codes and AI summarization
